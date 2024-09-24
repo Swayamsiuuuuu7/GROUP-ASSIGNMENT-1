@@ -2,7 +2,7 @@
 
 
 
-//Yash: Implements the main loop and menu display.
+//Ronit: Implements the main loop and menu display.
 //Nishant: Handles electronics item addition.
 //Parth: Handles groceries item addition.
 //Anusarv: Implementing switch case from (Case 1-3)
